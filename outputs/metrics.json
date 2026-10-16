@@ -1,0 +1,8 @@
+{
+  "model": "RandomForestRegressor",
+  "test_rows": 860,
+  "MAE_kWh": 0.2342418885961047,
+  "RMSE_kWh": 0.29137407789889913,
+  "R2": 0.9036934157068603,
+  "note": "Metrics are from a time-ordered holdout set. Demo data is simulated unless replaced."
+}

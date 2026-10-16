@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated data/model/results (uncomment if you do not want them in GitHub)
+# data/energy.csv
+# models/*.joblib
+# outputs/*
